@@ -1,0 +1,3 @@
+	ButtonPressed	KEYWORD1
+
+	isButtonPressed	KEYWORD2
